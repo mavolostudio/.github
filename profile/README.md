@@ -16,13 +16,11 @@ Our projects range from small-scale websites for local businesses to comprehensi
 
 ## Get Involved
 Interested in collaborating with us or want to learn more? Here's how you can reach out:
-- **Email:** [Insert Email Address]
-- **Twitter:** [Insert Twitter Handle]
-- **LinkedIn:** [Insert LinkedIn Profile]
+- **Email:** [contact.mvl.id@gmail.com]
 
 We are always looking for talented individuals to join our team or partners who share our vision for the future of digital technology.
 
 ## Support or Contact
-Having trouble with one of our projects? Check out our [documentation](URL-to-documentation) or [contact support](mailto:support-email@example.com) and we’ll help you sort it out.
+Having trouble with one of our projects? Check out our [documentation](URL-to-documentation) or [contact support](mailto:contact.mvl.id@gmail.com) and we’ll help you sort it out.
 
 Thank you for visiting our GitHub Organization. Stay tuned for more updates and innovations from Mavolo Studio!
